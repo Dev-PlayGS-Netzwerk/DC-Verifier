@@ -1,6 +1,6 @@
 # DC-Verifier
 
-Der komplette Source Code von unserem Verifier Bot.
+Der komplette Source Code von unserem Discord Verifier Bot.
 
 Der DC Verifier Bot von uns verifiziert Discord mit Minecraft, sodass alle die auf unserem Netzwerk spielen, ihren Ingame Minecraft Namen im Discord haben.
 
